@@ -111,7 +111,7 @@ The dashboard uses a **Netflix-inspired red & black theme**, enhanced with icons
 ## 📦 Output Preview
 
 > 🖼️ Screenshot:  
-> ![Dashboard Preview](./assets/netflix_dashboard.png)
+> ![Dashboard Preview](./Netflix_Dashboard.png)
 
 ---
 
